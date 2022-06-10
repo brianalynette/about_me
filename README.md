@@ -8,7 +8,7 @@ My name is Briana and I'm a Computer Science major & Visual Arts minor at the [U
 * **Languages**: Python, C, C++, Java, MySQL, Json
 * **Learning**: relational data modeling, computer graphics, virtual memory, animation, and more.
 
-My previous work experience is confidential, however current university work can be found [here](https://github.com/brianalynette/school-work). 
+My previous work experience is confidential, however current university work can be found [here](https://github.com/brianalynette/university). 
 
 I am currently working on a course on Unity and will be posting the work from that in mid-July!
 
